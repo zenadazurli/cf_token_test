@@ -9,7 +9,7 @@ import sys
 from datetime import datetime
 
 # ==================== CONFIGURAZIONE ====================
-BROWSERLESS_TOKEN = "2UB6rOr3hyJ9vbF1cbca46c5b50811765d51ccecb49d66cbb"
+BROWSERLESS_TOKEN = "2UB77nckQfSpg8veaa27f3b03f6b4b02075815526a7afd992"
 BQL_URL = f"https://production-sfo.browserless.io/chrome/bql?token={BROWSERLESS_TOKEN}&stealth=true&proxy=residential&proxyCountry=it"
 
 SITE_URL = "https://www.easyhits4u.com/?join_popup_show=1"
